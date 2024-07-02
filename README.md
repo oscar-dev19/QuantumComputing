@@ -32,7 +32,7 @@ Feel free to explore, fork, and contribute to any of the projects. Collaboration
 ## Let's Connect!
 
 - GitHub: [oscar-dev19](https://github.com/oscar-dev19)
-- LinkedIn: [Oscar Lopez](#) (add your LinkedIn profile link)
+- LinkedIn: [Oscar Lopez](https://www.linkedin.com/in/oscar-lopez-dev/) (add your LinkedIn profile link)
 - Email: [lopez2116@csusm.edu](mailto:lopez2116@csusm.edu)
 
 Happy coding! 😊
